@@ -3,7 +3,7 @@ name: Fineract Docker build - ioTec
 on:
   push:
     branches:
-      - 1.9.0
+      - 1.9.0-iotec
   workflow_dispatch:
 
 
